@@ -1,8 +1,25 @@
 aid: workforce-software
 name: WorkForce Software
-description: WorkForce Software is a company surfaced as a portfolio company of insight-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: WorkForce Software, an ADP company since October 2024, makes the WorkForce
+  Suite, an enterprise workforce management platform covering time and attendance,
+  employee scheduling, absence and leave management, labor forecasting, data capture,
+  and payroll compliance for large, complex organizations. The Suite integrates with
+  leading HCM and ERP systems (SAP, Oracle, Workday, ADP) via RESTful APIs, SOAP APIs,
+  and file-based interfaces, with SSO/SLO and MFA support; API and integration
+  documentation is provided to customers through the WorkForce Software community
+  portal rather than a public developer portal.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://workforcesoftware.com/wp-content/uploads/2025/06/cropped-wf-adp-favicon-1-192x192.webp
 url: https://raw.githubusercontent.com/api-evangelist/workforce-software/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +29,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Workforce Management
+- Time and Attendance
+- Scheduling
+- Absence Management
+- Human Resources
+- Enterprise Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +46,31 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.workforcesoftware.com/
+  url: https://workforcesoftware.com/
+- type: Documentation
+  url: https://mycommunity.workforcesoftware.com/knowledge-base
+- type: Support
+  url: https://workforcesoftware.com/support/
+- type: Login
+  url: https://mycommunity.workforcesoftware.com/private/login
+- type: Blog
+  url: https://workforcesoftware.com/blogs/
+- type: TermsOfService
+  url: https://workforcesoftware.com/terms-and-conditions/
+- type: PrivacyPolicy
+  url: https://www.adp.com/privacy.aspx
+- type: Integrations
+  url: https://workforcesoftware.com/workforce-suite/hcm-and-erp-integrations/
+- type: Partners
+  url: https://workforcesoftware.com/partners/
+- type: DomainSecurity
+  url: security/workforce-software-domain-security.yml
+- type: Conformance
+  url: conformance/workforce-software-conformance.yml
+- type: LLMsTxt
+  url: llms/workforce-software-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 4
+  pass: local-v1

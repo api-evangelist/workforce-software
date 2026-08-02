@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of https://workforcesoftware.com
+host: https://workforcesoftware.com
+notes: No /.well-known/ discovery surface is published. All probes returned 404
+  (www.workforcesoftware.com 301-redirects to the apex host, which was probed).
+  Recorded so re-runs know this surface was checked.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404

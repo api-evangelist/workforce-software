@@ -1,0 +1,35 @@
+# WorkForce Software
+
+> WorkForce Software (an ADP company since October 2024) makes the WorkForce Suite, an enterprise workforce management platform covering time and attendance, employee scheduling, absence and leave management, labor forecasting, data capture, and payroll compliance for large, complex organizations. The Suite integrates with leading HCM and ERP systems (SAP, Oracle, Workday, ADP) via RESTful APIs, SOAP APIs, and file-based interfaces; technical API documentation is available to customers through the WorkForce Software community portal rather than a public developer portal.
+
+## Product
+
+- [WorkForce Suite](https://workforcesoftware.com/workforce-suite/): Platform overview
+- [Time and Attendance](https://workforcesoftware.com/workforce-suite/time-and-attendance/): Timekeeping and pay-rule compliance
+- [Scheduling](https://workforcesoftware.com/workforce-suite/scheduling/): Employee scheduling
+- [Absence Management](https://workforcesoftware.com/workforce-suite/absence-management/): Leave and absence compliance
+- [Labor Forecasting](https://workforcesoftware.com/workforce-suite/labor-forecasting/): Demand-driven labor forecasting
+- [Data Capture](https://workforcesoftware.com/workforce-suite/data-capture/): Clocks and capture devices
+- [Reporting and Analytics](https://workforcesoftware.com/workforce-suite/reporting-and-analytics/): Workforce analytics
+
+## Integrations
+
+- [HCM and ERP Integrations](https://workforcesoftware.com/workforce-suite/hcm-and-erp-integrations/): REST APIs, SOAP APIs, and file-based interfaces (CSV/XML); SSO/SLO and MFA support
+- [Partners](https://workforcesoftware.com/partners/): Technology partners (SAP, Oracle, Workday) and system integrators
+- [SAP Partnership](https://workforcesoftware.com/partners/sap/): SAP-endorsed workforce management
+- [Workday Partnership](https://workforcesoftware.com/partners/workday/): Workday integration
+- [Oracle Partnership](https://workforcesoftware.com/partners/oracle/): Oracle integration
+
+## Docs
+
+- [Support](https://workforcesoftware.com/support/): 24x7x365 global support
+- [Community Portal (login)](https://mycommunity.workforcesoftware.com/private/login): Customer portal; API and integration documentation lives here
+- [Knowledge Base](https://mycommunity.workforcesoftware.com/knowledge-base): Documentation, announcements, and articles
+- [Blog](https://workforcesoftware.com/blogs/): Company blog
+- [Resources](https://workforcesoftware.com/resources/): Datasheets, guides, research
+
+## Legal
+
+- [Terms and Conditions](https://workforcesoftware.com/terms-and-conditions/)
+- [Acceptable Use Policy](https://workforcesoftware.com/acceptable-use-policy/)
+- [Privacy (ADP)](https://www.adp.com/privacy.aspx)

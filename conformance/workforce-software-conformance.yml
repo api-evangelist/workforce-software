@@ -1,0 +1,31 @@
+generated: '2026-07-21'
+method: searched
+source: https://workforcesoftware.com/workforce-suite/hcm-and-erp-integrations/
+notes: WorkForce Software publishes no public API specifications; integration and
+  API documentation is gated behind the customer community portal. Assertions below
+  come from the public HCM/ERP integrations page only.
+standards:
+- id: rest
+  conforms: true
+  evidence: 'HCM and ERP integrations page: "RESTful APIs, SOAP APIs, and file-based
+    interfaces using popular formats (e.g., CSV and XML)"'
+- id: soap
+  conforms: true
+  evidence: Same page documents SOAP APIs for HCM/ERP integration
+- id: sso-single-sign-on
+  conforms: true
+  evidence: Page documents integration with single sign-on (SSO) and single logout
+    (SLO) software plus multi-factor authentication compatibility
+- id: oauth2
+  conforms: false
+  evidence: No public documentation of OAuth 2.0 support found
+- id: oidc
+  conforms: false
+  evidence: No /.well-known/openid-configuration on workforcesoftware.com (404);
+    no public OIDC documentation found
+- id: scim
+  conforms: false
+  evidence: No public SCIM documentation found
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: No public API reference available to verify error format

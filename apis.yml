@@ -8,6 +8,17 @@ description: WorkForce Software, an ADP company since October 2024, makes the Wo
   and file-based interfaces, with SSO/SLO and MFA support; API and integration
   documentation is provided to customers through the WorkForce Software community
   portal rather than a public developer portal.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
